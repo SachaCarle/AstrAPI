@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "astrapi",
+  "private_key_id": "9031ac55fe84de03f296d0b2edc25b35f908b857",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsVaL1FAD5C6A0\nWo3LifDdQ4csqFwuXFALe+UeF0xkEWg9y2TFKtGQsUhrluv05jdcnEeNrXK88bfi\n9pmH01be4h/w/AwW86KRDbFFqppGMVMgYQ8ZXQ53rUjTVfYwonqwcP1OsYdylfxK\nAsjHphuHVMLdqzoIAzgHhgNQOS0fp9WehvT6NO3H6d74h4O2hoWZLyHRBO1WNMoh\noSpcIm7EWf0dFbWSRhkNbz7havxHuCMI7A8ZIXOArTJfWVq0ER5tClVL/rrFW5g6\n8MED5f306bLi8zv4769T9SlZ8VUzWrQxBeKZlZGbNf7yZkqHPxXxvNoqDmu0mgWl\nu+GM/JAlAgMBAAECggEAESrQ/8r7HXF5VXGSKmvD0JrQEKUj2bqbFj54IJ+yIkm7\nv/4Mkkr04UpozOdFZBXYsH7qBAdfqzccHl3p6KUoLWARJb+f/tx7SFyi2NaWnCHc\nnItDCMVgSz64kyDD1aQT0/RyiLsaGu98swFGmu68wgTySR5f7zGRVMXowIoqtjQR\nMX1W+QWt3HaL87gzYGpd1SWi4uQHbDonF2XgGYW1t1RuikGrVzQvB2og6lWwyQJ5\nL8k7ef5oto/vqdB//+ANQSxmzCfpF7gMgotFtimGteByG3CD2RkmQ6vQp7rL2Qx2\nvS7KmGLSeze4mJb1ZuGUu3Fepq/Yb1YubfAdpiBHIQKBgQD6eDSZSjq4Khl80qHQ\nc83eVjT7Z3gpNjnGNgkZtEP6EM+h9lhtJ0kwRGRR7j2rxav3iTfKINZHU3IOkQsC\nKykjoFuKqy06cEbcSBYXgWfRT/da31V2kUMzEwWc62FM79h7MurFp1iQmKKLv8Z1\nzvVOpR+yMZXlJl5P8frQNGc2BQKBgQDxjYgs6SCiJ0tnDwDbGygiJB3SzMBQntvA\nHu7TmGfNV7mqxLbg4ZG8oFgyI0cHxo5rjsZD8en9eqwdAyUB5YtOGSWU9lPFaIIv\naW9hgRBi4/ivhWQZl61O735rgXsGRyPAYq+PzMi1mPk6ov9fGtTn8+uM6XsxwZYm\nPNnUtxnroQKBgD4GKFhRZmsWmcssSb/Z/X/ybxpWjA4AjJwF44kG99Jj+VbNLyaQ\nlPIr7X/QdFsmDyi0RSl7qjRteJAc4NH/qCdXXXPgYcnX5eREwZu+gtv1ZnaNWZeL\n700lh71NGII53qzbdgHOKANemNnsepPP1TVNdKTm3IyrTK2VaZvHbkuVAoGAB6IY\nVor7bARf3p7bwRDHoOSRSLMNtL6AZT7U/zzGsvd9t4bF3K9kIpjSkKsKuJUutPlr\nDISdh1QUEkqiJcAyOcKTrHRoS0m1K3hie6tPcECSAEHv2tsvL9pjnVQXJiijWZYE\nxD+NbCesYIz8Eu5PIhFUNTy/lt/uNcEghRdQK2ECgYEAzQphuqFz8HBdIpOJTW+D\nEr+W8VVPs2FR4/3LT8ereDCOrrgrXM2yTFi2Za/ZmOQux4NGZwBgxv9/bnUxtP8Q\n0ztJlzmZ0tjXv7UNqoSxawVghy6G9Q2BQWYpsQrKz4FdmzOEItER1HeZxqbKUXpB\n4OwWyIJ1d9lDvcGpAcW14BY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "production@astrapi.iam.gserviceaccount.com",
+  "client_id": "109503176592728658546",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/production%40astrapi.iam.gserviceaccount.com"
+}
